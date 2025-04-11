@@ -248,7 +248,7 @@ This value should be set to the total number of E stepper motors on the machine,
 
 ### Filament Diameter
 ```cpp
-#define DEFAULT_NOMINAL_FILAMENT_DIA 3.00
+#define DEFAULT_NOMINAL_FILAMENT_DIA 1.75
 ```
 This is the "nominal" filament diameter as written on the filament spool (1.75, 2.85, 3.0). If you typically use 1.75mm filament, but physically measure the diameter as 1.70mm, you should still use 1.75 if that's what you have set in your slicer.
 
